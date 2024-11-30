@@ -6,3 +6,5 @@ with station data in them.
 This project is open-source.
 
 Email gatlinyt@gmail.com to ask for a station to be added.
+
+This is a part of the WeatherWX ecosystem.
